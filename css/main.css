@@ -1,11 +1,11 @@
 * {
+  font-family: 'Quicksand', sans-serif;
   margin: 0;
   padding: 0;
 }
 
 h1 {
   display: inline-block;
-  font-family: 'Ranchers', cursive;
   font-size: 60px;
   margin: 77px 0 21px 35%;
 }
@@ -17,9 +17,9 @@ h1 {
 }
 
 section {
-  font-family: 'Quicksand', sans-serif;
+  line-height: 30px;
+  text-align: justify;
   margin: 42px 300px 25% 300px;
-
 }
 
 .tab-js {
